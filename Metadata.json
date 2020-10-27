@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 87462,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/registers-azure-resource-manager-virtual-machines-with-automation-dsc-service./master/Register-VMDSC.graphrunbook",
+    "DownloadCount": 2095,
+    "Id": "Registers-Azure-resource-31979771",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 103,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-9-22T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This runbook registers Azure resource manager virtual machines with automation DSC service. These can either be Windows or Linux virtual machines that are supported with DSC. You can specify the whole subscription, a specific resource group, or an individual VM.",
+    "Title": "Registers Azure resource manager virtual machines with Automation DSC service.",
+    "UpdatedDate": "2016-9-22T00:00:00",
+    "Url": "https://github.com/azureautomation/registers-azure-resource-manager-virtual-machines-with-automation-dsc-service.",
+    "UserTags": "DSC, Azure Automation, GraphicalPS"
+}
